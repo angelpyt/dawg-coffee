@@ -13,6 +13,9 @@ body {
 svg {
 	height: 1.5em;
 }
+#icon svg {
+	height: 1em;
+}
 
 #header #header-p {
 	display: none;
@@ -184,7 +187,7 @@ dd {
 	}
 	#second {
 		text-align: right;
-	}
+	}e
 }
 
 @media screen and (min-width: 992px) {
