@@ -6,14 +6,14 @@ This folder contains your submission for the [responsive challenge](http://facul
 > Answer goes here!
 
 ##### 2. Did you receive any help from others (classmates, etc)? If so, please list who. #####
-> Answer goes here!
+> Professor and TA
 
 ##### 3. Did you complete any advanced extensions to this challenge? If so, what? #####
-> Answer goes here!
+> No, I didn't.
 
 ##### 4. Approximately how many hours did it take you to complete this challenge? #####
-> Answer goes here!
+> 20 hours
 
 ##### 5. Did you encounter any problems in this challenge we should warn students about in the future? How can we make the challenge better? #####
-> Answer goes here!
+> Some instructions are not that clear enough for me to follow. I encounter some problems about imgs are not showing up. Probably specify some instructions in details. 
 
