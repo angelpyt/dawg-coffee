@@ -41,6 +41,7 @@ h2 {
 
 nav{
 	position: fixed;
+	z-index: 1000;
 	top: 0;
 	background-color: #181C22;
 	margin-right: 15px;
